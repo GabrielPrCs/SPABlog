@@ -1,0 +1,10 @@
+.btn-new-post {
+  position: fixed;
+  bottom: 1rem;
+  right: 1rem;
+  opacity: .3;
+}
+
+.btn-new-post:hover {
+  opacity: 1;
+}
